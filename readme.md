@@ -1,4 +1,4 @@
-# Jogo-Numero
-Um minigame de apostar em um número
+# Wise Goat
+Peça conselhos à cabra
 
 https://davi-oliveira.github.io/Wise-Goat/
